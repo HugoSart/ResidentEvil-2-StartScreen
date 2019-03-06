@@ -6,6 +6,12 @@ TagManager:
   tags:
   - HintText
   - ButtonHintText
+  - FadeImage
+  - SceneEndAudio
+  - Rain Static
+  - Menu Background
+  - Info Text
+  - Info
   layers:
   - Default
   - TransparentFX
@@ -16,7 +22,7 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
+  - UI Effect
   - 
   - 
   - 
